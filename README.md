@@ -1,4 +1,4 @@
-# Fake News Detection Model
+# Fake News Prediction Model
 
 ## Overview
 
